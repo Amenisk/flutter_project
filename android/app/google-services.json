@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170392034359",
+    "project_id": "monkeymobile-d0e1d",
+    "storage_bucket": "monkeymobile-d0e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170392034359:android:180d8cd7733468bd0a33b2",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170392034359-obb6hse5kofgc90fhc0658vpkoub7btn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8JjrY96-FFYboDMQV0PqUkD-9moI3G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170392034359-obb6hse5kofgc90fhc0658vpkoub7btn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

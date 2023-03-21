@@ -6,8 +6,8 @@ class CalendarPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CalendarDatePicker(
-      initialDate: DateTime.now(),
       firstDate: DateTime(2023, 2, 1),
+      initialDate: DateTime.now(),
       lastDate: DateTime(2024, 2, 28),
       onDateChanged: (DateTime value) {},
     );
